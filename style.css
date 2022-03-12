@@ -109,7 +109,7 @@ a:hover {
     font-weight: 700;
 }
 
-.eng {
+.eng, .rss {
     color: rgb(57, 40, 81);
     font-weight: 700;
     transition: color 0.5s ease-out;
@@ -118,6 +118,11 @@ a:hover {
 .eng:hover {
     color: rgb(211, 177, 234);
     font-size: 20px;
+}
+
+.rss:hover {
+    color: rgb(211, 177, 234);
+    font-size: 18px;
 }
 
 .container1 {
